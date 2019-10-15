@@ -1,0 +1,17 @@
+/* pages/accredit/accredit.wxss */
+.accredit{
+  width: 100%;
+  padding-top: 150rpx;
+}
+.accredit .accredit_item{
+  padding: 0 30rpx;
+}
+.accredit .accredit_item .accredit_txt{
+  text-align: center;
+  margin: 5rpx 0;
+}
+.accredit .accredit_item button{
+  color: #fff;
+  background: red;
+  margin-top: 15rpx;
+}

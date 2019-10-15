@@ -1,0 +1,9 @@
+<!--pages/accredit/accredit.wxml-->
+<!-- <text>pages/accredit/accredit.wxml</text> -->
+<view class="accredit">
+  <view class="accredit_item">
+    <!-- <view class="accredit_txt">温馨提示!</view> -->
+    <view class="accredit_txt">小程序获取您的用户信息</view>
+      <button open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">授权登录</button>
+  </view>
+</view>

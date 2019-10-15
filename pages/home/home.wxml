@@ -1,0 +1,23 @@
+<!--pages/home/home.wxml-->
+<!-- <text>pages/home/home.wxml</text> -->
+<view class="home">
+  <view class="header">
+    <image src="../../image/home/title8.png"></image>
+  </view>
+  <view class="main">
+    <view class="main_image">
+      <image src="../../image/home/wave.png" class="main_image1"></image>
+      <image  class="main_image2" src="../../image/home/wave.png"></image>
+      <image  class="main_head"  src="https://wx.qlogo.cn/mmopen/vi_32/q3gs22hSFicX3j9QPLCxO9vTaaf8B1gKibgCvY6ZFT2SI3YSKW9pSHnaDiaEMZFAwlP4XtQRuUmXmm4euIoia69jcg/132"></image>
+    </view>
+  </view>
+  <view class="referral">
+    <view class="referral_image">
+      <image src="../../image/home/confirm-word1.png"></image>
+    </view>
+    <view class="button">
+      <button>进入店铺</button>
+
+    </view>
+  </view>
+</view>
